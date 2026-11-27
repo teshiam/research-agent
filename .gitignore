@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.db
+*.db-wal
+*.db-shm
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+node_modules/
+.next/
+web/.env.local
+*.tsbuildinfo
+next-env.d.ts
